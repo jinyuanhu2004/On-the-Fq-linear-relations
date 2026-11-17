@@ -1,0 +1,6 @@
+name = "Megaera"
+version = "0.1.0"
+defaultTargets = ["Megaera"]
+
+[[lean_lib]]
+name = "Megaera"
